@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Brandon</h1>
 <h3 align="center">Un joven apasionado por este mundo de la programación que se prepara para ser cada vez mejor colaborando con otros.</ h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-tropic"><img src="https://github-profile-tropico.vercel .app/?username=bran666" alt="bran666" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-tropic"><img src="https://github-profile-tropico.vercel.app/?username=Bran666" alt="Bran666" /></a> </p>
 
 - 🔭Me gustaría trabajar en **Backend - Base de datos Desarrollador de software**
 
