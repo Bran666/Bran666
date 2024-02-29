@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Brandon</h1>
 <h3 align="center">Un joven apasionado por este mundo de la programación que se prepara para ser cada vez mejor colaborando con otros.</ h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-tropic"><img src="https://avatars.githubusercontent.com/u/119646986?s=400&u=5a4c27bc557d874dabe5a00fd827d5a333376db9&v=4" alt="Bran666" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-tropic"><img width="40px" height="40" src="https://avatars.githubusercontent.com/u/119646986?s=400&u=5a4c27bc557d874dabe5a00fd827d5a333376db9&v=4" alt="Bran666" /></a> </p>
 
 - 🔭Me gustaría trabajar en **Backend - Base de datos Desarrollador de software**
 
