@@ -19,7 +19,7 @@
 
 - 📫 Cómo to contact me **stifrestrepo54@gmail.com**
 
-- 📄 Tengo experiencia en [proyectos en cuanto a la experiencia laboral no dispongo de ninguna](proyectos en cuanto a la experiencia laboral no dispongo de ninguna)
+- 📄 Tengo experiencia en [Proyectos] (En cuanto a la experiencia laboral no dispongo de ninguna) ＞﹏＜
 
 - ⚡ Dato curioso **Soy muy alegre, divertida, responsable, me gusta colaborar con los demás, me gusta aprender de otras personas y me gusta ser colaborativo**
 
