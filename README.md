@@ -11,9 +11,9 @@
 
 - 🤝 Me gustaría ayudar con **Desarrollo de software, Servidores, Administración Backend**
 
-- 👨‍💻 All of my Los proyectos están disponibles en [https://github.com/KyRA-666?tab=repositories](https://github.com/Bran666?tab=repositories)
+- 👨‍💻 All of my Los proyectos están disponibles en [https://github.com/Bran666?tab=repositories](https://github.com/Bran666?tab=repositories)
 
-- 📝 Escribo artículos regularmente en [https:// github.com/KyRA-666?tab=repositories](https://github.com/Bran666?tab=repositories)
+- 📝 Escribo artículos regularmente en [https:// github.com/Bran666?tab=repositories](https://github.com/Bran666?tab=repositories)
 
 - 💬Sobre mis trabajos **Páginas Web, APIs, Software y Servicios.**
 
