@@ -21,7 +21,7 @@
 
 - 📄 Tengo experiencia en [Proyectos] (En cuanto a la experiencia laboral no dispongo de ninguna) ＞﹏＜
 
-- ⚡ Dato curioso **Soy muy alegre, divertida, responsable, me gusta colaborar con los demás, me gusta aprender de otras personas y me gusta ser colaborativo**
+- ⚡ Dato curioso **Soy muy alegre, divertido, responsable, me gusta colaborar con los demás, me gusta aprender de otras personas y me gusta ser colaborativo**
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left" > stifrestrepo54@gmail.com
